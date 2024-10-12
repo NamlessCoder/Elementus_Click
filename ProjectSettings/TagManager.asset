@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Stone
+  - Buz
+  - FireBall
+  - Water
+  - FireWall
+  - Waterball
+  - Sea
+  - Airball
+  - secim
+  - UI
+  - B1
+  - B2
+  - B3
+  - durak
+  - B4
+  - Healball
+  - images
+  - donen
+  - Ayna
+  - yersu
+  - "yans\u0131yan"
+  - durak2
+  - panel
+  - durak3
+  - puzzle1
+  - puzzlesecim
+  - durak12
+  - kapbuz
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Player
+  - Ayna
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3546178201
+    locked: 0
+  - name: Water
+    uniqueID: 113734041
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3521987493
+    locked: 0
+  - name: Cable
+    uniqueID: 2732919285
+    locked: 0
+  - name: Character
+    uniqueID: 3178884879
+    locked: 0
+  - name: Door
+    uniqueID: 3024687101
+    locked: 0
+  - name: Fx
+    uniqueID: 681430065
+    locked: 0
+  - name: UI
+    uniqueID: 2597278355
+    locked: 0

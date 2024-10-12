@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: e03f4db0261daa34b8e44e4a38b1bd25
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 6
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638510381174591942
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: donanselale_Frame_0
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 25
+      height: 57
+    spriteID: 7c800c8cf0457a24bb784a819bbe6da7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: donanselale_Frame_1
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 69
+      width: 25
+      height: 57
+    spriteID: 3149f1de4ebc8dc42b04717e38c0f6a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 69}
+  - name: donanselale_Frame_2
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 134
+      width: 25
+      height: 57
+    spriteID: a7ca5014122d38641a6930b940db97f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 134}
+  - name: donanselale_Frame_3
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 199
+      width: 25
+      height: 57
+    spriteID: 502f4a1395122814981bf131bfc7157b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 199}
+  - name: donanselale_Frame_4
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 264
+      width: 25
+      height: 57
+    spriteID: 547a99ad383ecd0428b32e3dd0cf91cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 264}
+  - name: donanselale_Frame_5
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 329
+      width: 25
+      height: 57
+    spriteID: af6d825b82effcb4cb9d303daafe4bc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 329}
+  - name: donanselale_Frame_6
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 394
+      width: 25
+      height: 57
+    spriteID: df9c16142870afd4c8a505e74b3d8bda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 394}
+  - name: donanselale_Frame_7
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 4
+      width: 25
+      height: 57
+    spriteID: edab48743c6d1484aa285dbcbe2884c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 4}
+  - name: donanselale_Frame_8
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 69
+      width: 25
+      height: 57
+    spriteID: 05d46f3606a3df44887a83baf6757a71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 69}
+  - name: donanselale_Frame_9
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 134
+      width: 25
+      height: 57
+    spriteID: 4882232435027014b99bfbccf19905ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 134}
+  - name: donanselale_Frame_10
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 199
+      width: 25
+      height: 57
+    spriteID: f781d2c88c856df49b2e12cb868832d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 199}
+  - name: donanselale_Frame_11
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 264
+      width: 25
+      height: 57
+    spriteID: cd6184e394c1f584daf012463555fd36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 264}
+  - name: donanselale_Frame_12
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 329
+      width: 25
+      height: 57
+    spriteID: 4d71137bb45f5804780fd5ccec0f7b6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 329}
+  - name: donanselale_Frame_13
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 394
+      width: 25
+      height: 57
+    spriteID: aba7b140316b4eb4d89b6aae895b513a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 394}
+  - name: donanselale_Frame_14
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 25
+      height: 57
+    spriteID: 1ea1254bcc96fc24bb186c484688feeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 4}
+  - name: donanselale_Frame_15
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 69
+      width: 25
+      height: 57
+    spriteID: d31182b9351138b49b2c7347c4e05737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 69}
+  - name: donanselale_Frame_16
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 134
+      width: 25
+      height: 57
+    spriteID: 13ac953365f281246a33aa963e7ce181
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 134}
+  - name: donanselale_Frame_17
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 199
+      width: 25
+      height: 57
+    spriteID: 296f8c2bc71aadd49b2adb4c0446dd18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 199}
+  - name: donanselale_Frame_18
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 264
+      width: 25
+      height: 57
+    spriteID: 9d26ff4a9502bb54292712b5949f7805
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 264}
+  - name: donanselale_Frame_19
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 329
+      width: 25
+      height: 57
+    spriteID: 81d78a8d38c0d2d4e8a86524353cbc9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 329}
+  - name: donanselale_Frame_20
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 394
+      width: 25
+      height: 57
+    spriteID: 97602c31b2ab140419f77165bb55c067
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 394}
+  - name: donanselale_Frame_21
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 4
+      width: 25
+      height: 57
+    spriteID: 156b56dc1d1b5a842816a88eb5a3e89b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 4}
+  - name: donanselale_Frame_22
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 69
+      width: 25
+      height: 57
+    spriteID: b22abab96b3aef540899b3527a646d93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 69}
+  - name: donanselale_Frame_23
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 134
+      width: 25
+      height: 57
+    spriteID: d3231133f7d9ba94f91f8e0cf4e2cc0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 134}
+  - name: donanselale_Frame_24
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 199
+      width: 25
+      height: 57
+    spriteID: ad998004cf80ef140b6b86b3389dcbcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 199}
+  - name: donanselale_Frame_25
+    originalName: 
+    pivot: {x: 0.48000002, y: -0.1754386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 264
+      width: 25
+      height: 57
+    spriteID: c02784350ffc3c14e99e1df767805255
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 103, y: 264}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 25827032
+    name: donanselale
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: donanselale_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 7c800c8cf0457a24bb784a819bbe6da7
+    - name: donanselale_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 3149f1de4ebc8dc42b04717e38c0f6a5
+    - name: donanselale_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: a7ca5014122d38641a6930b940db97f2
+    - name: donanselale_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 502f4a1395122814981bf131bfc7157b
+    - name: donanselale_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 547a99ad383ecd0428b32e3dd0cf91cc
+    - name: donanselale_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: af6d825b82effcb4cb9d303daafe4bc4
+    - name: donanselale_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: df9c16142870afd4c8a505e74b3d8bda
+    - name: donanselale_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: edab48743c6d1484aa285dbcbe2884c9
+    - name: donanselale_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 05d46f3606a3df44887a83baf6757a71
+    - name: donanselale_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 4882232435027014b99bfbccf19905ff
+    - name: donanselale_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: f781d2c88c856df49b2e12cb868832d7
+    - name: donanselale_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: cd6184e394c1f584daf012463555fd36
+    - name: donanselale_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 4d71137bb45f5804780fd5ccec0f7b6d
+    - name: donanselale_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: aba7b140316b4eb4d89b6aae895b513a
+    - name: donanselale_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 1ea1254bcc96fc24bb186c484688feeb
+    - name: donanselale_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: d31182b9351138b49b2c7347c4e05737
+    - name: donanselale_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 13ac953365f281246a33aa963e7ce181
+    - name: donanselale_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 296f8c2bc71aadd49b2adb4c0446dd18
+    - name: donanselale_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 9d26ff4a9502bb54292712b5949f7805
+    - name: donanselale_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 81d78a8d38c0d2d4e8a86524353cbc9d
+    - name: donanselale_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 97602c31b2ab140419f77165bb55c067
+    - name: donanselale_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: 156b56dc1d1b5a842816a88eb5a3e89b
+    - name: donanselale_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: b22abab96b3aef540899b3527a646d93
+    - name: donanselale_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: d3231133f7d9ba94f91f8e0cf4e2cc0d
+    - name: donanselale_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: ad998004cf80ef140b6b86b3389dcbcd
+    - name: donanselale_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 8
+        y: 10
+        width: 25
+        height: 57
+      spriteId: c02784350ffc3c14e99e1df767805255
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 40, y: 73}

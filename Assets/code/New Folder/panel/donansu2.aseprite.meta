@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: c7deee132876c4247bcbcea9e022b2e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 8
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638510288281872888
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: donansu2_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 96
+      height: 49
+    spriteID: 4a913af136d13d247a871f4faa387ba2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -3, y: 0}
+  - name: donansu2_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 96
+      height: 49
+    spriteID: e09374a27bf09764f98b85b6e87035ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 61}
+  - name: donansu2_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 96
+      height: 49
+    spriteID: e9580e662c4c28a4989084c4a699821e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: donansu2_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 175
+      width: 96
+      height: 49
+    spriteID: 0405d5f9e49c15b40856c6285115edff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 175}
+  - name: donansu2_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 232
+      width: 96
+      height: 49
+    spriteID: b255ffc767f6b9647a6c51eaea5bd945
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 232}
+  - name: donansu2_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 289
+      width: 96
+      height: 49
+    spriteID: 1ad69e6de763a1b43ab0b344e992ddc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 289}
+  - name: donansu2_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 346
+      width: 96
+      height: 49
+    spriteID: f4c0f4300b5dcc546af3b8ea33f05a10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 346}
+  - name: donansu2_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 403
+      width: 96
+      height: 49
+    spriteID: 6d8946a23243be14abd404e945fb218d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 403}
+  - name: donansu2_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 4
+      width: 96
+      height: 49
+    spriteID: 440cce076473c2e4b957cac04ba398c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 4}
+  - name: donansu2_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 61
+      width: 96
+      height: 49
+    spriteID: 0a728a4c22b314c42b95d3eb603a7839
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 61}
+  - name: donansu2_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 118
+      width: 96
+      height: 49
+    spriteID: 3daa277f983bf114cbe637116df2894f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 118}
+  - name: donansu2_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.08163266}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 175
+      width: 96
+      height: 49
+    spriteID: 21b21db2ebe0b9b46a4cca84f402222f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 175}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 876694798
+    name: donansu2
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: donansu2_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 110
+        height: 60
+      spriteId: 4a913af136d13d247a871f4faa387ba2
+    - name: donansu2_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: e09374a27bf09764f98b85b6e87035ac
+    - name: donansu2_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: e9580e662c4c28a4989084c4a699821e
+    - name: donansu2_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 0405d5f9e49c15b40856c6285115edff
+    - name: donansu2_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: b255ffc767f6b9647a6c51eaea5bd945
+    - name: donansu2_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 1ad69e6de763a1b43ab0b344e992ddc2
+    - name: donansu2_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: f4c0f4300b5dcc546af3b8ea33f05a10
+    - name: donansu2_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 6d8946a23243be14abd404e945fb218d
+    - name: donansu2_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 440cce076473c2e4b957cac04ba398c6
+    - name: donansu2_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 0a728a4c22b314c42b95d3eb603a7839
+    - name: donansu2_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 3daa277f983bf114cbe637116df2894f
+    - name: donansu2_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 7
+        y: 4
+        width: 96
+        height: 49
+      spriteId: 21b21db2ebe0b9b46a4cca84f402222f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 110, y: 60}

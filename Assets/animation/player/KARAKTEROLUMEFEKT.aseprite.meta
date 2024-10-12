@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 446e626963df2684da9c3360a81fa6eb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: KARAKTEROLUMEFEKT_Frame_0
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 18
+      height: 32
+    spriteID: 629583aa4b7cc7f4c830ba5ded96f847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: KARAKTEROLUMEFEKT_Frame_1
+    originalName: 
+    pivot: {x: 0.6153846, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 92
+      width: 13
+      height: 32
+    spriteID: ce7be677c460cf3449a73d09ed9e25ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 92}
+  - name: KARAKTEROLUMEFEKT_Frame_2
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 197
+      width: 14
+      height: 28
+    spriteID: 00f095d52445d5e4c880cc3ed35f09b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 197}
+  - name: KARAKTEROLUMEFEKT_Frame_3
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 197
+      width: 14
+      height: 26
+    spriteID: ec7d28721bfdc1444aabff69abde6c06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 197}
+  - name: KARAKTEROLUMEFEKT_Frame_4
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 14
+      height: 26
+    spriteID: fd111761e08eb7b49a1f467311b08604
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: KARAKTEROLUMEFEKT_Frame_5
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 38
+      width: 14
+      height: 26
+    spriteID: e92fcb8fc86ef824cb0c91c630437363
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 38}
+  - name: KARAKTEROLUMEFEKT_Frame_6
+    originalName: 
+    pivot: {x: 0.29629627, y: -0.3478261}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 27
+      height: 23
+    spriteID: bba0a3a833d80fc4fb1b38f891afb27f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 61}
+  - name: KARAKTEROLUMEFEKT_Frame_7
+    originalName: 
+    pivot: {x: 0.27586207, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 22
+      width: 29
+      height: 7
+    spriteID: 41ee75f55e0b47f4faafc7f7ed89a4bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 22}
+  - name: KARAKTEROLUMEFEKT_Frame_8
+    originalName: 
+    pivot: {x: 0.27586207, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 37
+      width: 29
+      height: 7
+    spriteID: 703203c058d1de54ebf08c2b54c47327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 37}
+  - name: KARAKTEROLUMEFEKT_Frame_9
+    originalName: 
+    pivot: {x: 0.34375, y: -0.8000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 32
+      height: 10
+    spriteID: c2dafea4615b7184981e9338d27e9e7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+  - name: KARAKTEROLUMEFEKT_Frame_10
+    originalName: 
+    pivot: {x: 0.42857143, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 176
+      width: 35
+      height: 13
+    spriteID: a1bb3ce7fcdab2a49a1203ef08e88a0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 176}
+  - name: KARAKTEROLUMEFEKT_Frame_11
+    originalName: 
+    pivot: {x: 0.45945945, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 132
+      width: 37
+      height: 14
+    spriteID: 476a3e49f677ad545aec88892d07fff0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 132}
+  - name: KARAKTEROLUMEFEKT_Frame_12
+    originalName: 
+    pivot: {x: 0.47222227, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 154
+      width: 36
+      height: 14
+    spriteID: b4b8a390ef939f143914dc1be154f7a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 154}
+  - name: KARAKTEROLUMEFEKT_Frame_13
+    originalName: 
+    pivot: {x: 0.575, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 33
+      width: 40
+      height: 20
+    spriteID: 279ee483bd372434a901d497f7ec16b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 33}
+  - name: KARAKTEROLUMEFEKT_Frame_14
+    originalName: 
+    pivot: {x: 0.575, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 40
+      height: 21
+    spriteID: a79fe29610a96424a8eb6bebf0460fee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 849187131
+    name: KARAKTEROLUMEFEKT
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: KARAKTEROLUMEFEKT_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 14
+        y: 8
+        width: 18
+        height: 32
+      spriteId: 629583aa4b7cc7f4c830ba5ded96f847
+    - name: KARAKTEROLUMEFEKT_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 16
+        y: 8
+        width: 13
+        height: 32
+      spriteId: ce7be677c460cf3449a73d09ed9e25ca
+    - name: KARAKTEROLUMEFEKT_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 16
+        y: 8
+        width: 14
+        height: 28
+      spriteId: 00f095d52445d5e4c880cc3ed35f09b6
+    - name: KARAKTEROLUMEFEKT_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 16
+        y: 8
+        width: 14
+        height: 26
+      spriteId: ec7d28721bfdc1444aabff69abde6c06
+    - name: KARAKTEROLUMEFEKT_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 16
+        y: 8
+        width: 14
+        height: 26
+      spriteId: fd111761e08eb7b49a1f467311b08604
+    - name: KARAKTEROLUMEFEKT_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 8
+        width: 14
+        height: 26
+      spriteId: e92fcb8fc86ef824cb0c91c630437363
+    - name: KARAKTEROLUMEFEKT_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 16
+        y: 8
+        width: 27
+        height: 23
+      spriteId: bba0a3a833d80fc4fb1b38f891afb27f
+    - name: KARAKTEROLUMEFEKT_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 16
+        y: 8
+        width: 29
+        height: 7
+      spriteId: 41ee75f55e0b47f4faafc7f7ed89a4bd
+    - name: KARAKTEROLUMEFEKT_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 8
+        width: 29
+        height: 7
+      spriteId: 703203c058d1de54ebf08c2b54c47327
+    - name: KARAKTEROLUMEFEKT_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 13
+        y: 8
+        width: 32
+        height: 10
+      spriteId: c2dafea4615b7184981e9338d27e9e7b
+    - name: KARAKTEROLUMEFEKT_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 8
+        width: 35
+        height: 13
+      spriteId: a1bb3ce7fcdab2a49a1203ef08e88a0b
+    - name: KARAKTEROLUMEFEKT_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 7
+        y: 8
+        width: 37
+        height: 14
+      spriteId: 476a3e49f677ad545aec88892d07fff0
+    - name: KARAKTEROLUMEFEKT_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 7
+        y: 8
+        width: 36
+        height: 14
+      spriteId: b4b8a390ef939f143914dc1be154f7a2
+    - name: KARAKTEROLUMEFEKT_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 1
+        y: 12
+        width: 40
+        height: 20
+      spriteId: 279ee483bd372434a901d497f7ec16b7
+    - name: KARAKTEROLUMEFEKT_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 1
+        y: 12
+        width: 40
+        height: 21
+      spriteId: a79fe29610a96424a8eb6bebf0460fee
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}
